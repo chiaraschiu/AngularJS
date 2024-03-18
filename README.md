@@ -1,16 +1,46 @@
-# AngularJS-Small-Projects
+# Getting Started with Create React App
 
-## Here you can find some small self learning AngularJS projects 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### AngularJS CRUD app
-This is a WebApp to learn and practice the *CRUD* concept on users using a REST webservice made in JAVA with Spring Framework<br />
-![AngularCRUD](https://cloud.githubusercontent.com/assets/20447537/24143363/57417570-0e21-11e7-9023-5ccb09470b81.png)
+## Available Scripts
 
-### Angular TODO
-In this *TODO* WebApp exercise I've used the same webservice created befode adding some features like the Add/Remove/Check Tasks <br />
-![AngularTODO](https://cloud.githubusercontent.com/assets/20447537/24143386/6b71fd62-0e21-11e7-9b19-0f8c342d947a.png)
+In the project directory, you can run:
 
-### Weather App
-The Weather App as it name says is an App to check the weather on different cities using the REST webservice of the Open Weather Map with multiple controllers, Services and External modules<br />
-![WeatherAPP](https://cloud.githubusercontent.com/assets/20447537/24143406/7ba764a6-0e21-11e7-897b-d204d46549f0.png)
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
